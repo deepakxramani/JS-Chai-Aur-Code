@@ -1,2 +1,2 @@
 # JS-Chai-Aur-Code
-A code repo for javascript series at Chai Aur Code Youtube Channel
+A code repo for javascript series at Chai Aur Code.
